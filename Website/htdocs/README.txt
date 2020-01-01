@@ -1,14 +1,18 @@
-
-TITLE: 
-Education - 100% Fully Responsive Free HTML5 Bootstrap Template
+100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+Bharat L. Vora
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+=====================================================
+Put the htdocs folder in your XAMMP/MAPP Software and
+access the website. 
+=====================================================
+Also receive the data from raspberrian pi about water property.
+=====================================================
+Unfortunately, sorry friends because there are many 
+unnecessary files and I dont't know which are. 
+So, I hope you will manage.
+====================================================
 
 CREDITS:
 
